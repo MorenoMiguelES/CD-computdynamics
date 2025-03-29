@@ -9,4 +9,4 @@ We will use for this numerical tutorials the finite element suite FEniCS/dolfinx
 
 ## Content
 
-You can find help on how to install and use FEniCS in [Install.md](https://github.com/MorenoMiguelES/CD-computdynamics/blob/main/Install.md).
+You can find help on how to install and use FEniCS in [INSTALL.md](https://github.com/MorenoMiguelES/CD-computdynamics/blob/main/INSTALL.md).
