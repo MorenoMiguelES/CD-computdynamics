@@ -33,6 +33,6 @@ Note: to see the environments installed in Conda, type: `conda env list`
 
 ## Windows
 
-FEniCS is not distributed for Windows. For Windows, the preferred option is to install the Windows subsystem for linux (WSL). Install the Ubuntu distribution as WSL, then refer to the section above inside the Ubuntu WSL. For further support, get in touch with your instructor. 
+FEniCS is not distributed for Windows. For Windows, the preferred option is to install the Windows subsystem for linux (WSL) [Windows subsystem for linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install). Install the Ubuntu distribution as WSL, then refer to the section above inside the Ubuntu WSL. For further support, get in touch with your instructor. 
 
 As an alternative, an Ubuntu virtual machine can be used. To set up the virtual machine, see [Ubuntu Virtual Machine Using VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview). Then, inside the ubuntu virtual machine follows the instruction for conda installation (see Linux installation). For further support, get in touch with your instructor.
