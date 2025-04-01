@@ -1,6 +1,6 @@
 # CD-computdynamics
 
-This repository contains the material for the class Computational Dynamics of the Computational Engineering Master of Lehrstuhl für Technische Mechanik, Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg.
+This repository contains the material for the course Computational Dynamics of the Computational Engineering Master of Lehrstuhl für Technische Mechanik, Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg.
 
 Teacher:
 - Miguel Angel Moreno-Mateos (miguel.moreno@fau.de)
