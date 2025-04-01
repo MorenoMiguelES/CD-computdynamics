@@ -26,7 +26,9 @@ You have now installed fenics in the conda environment `fenicsx-0.9.0`. To use i
 
 `conda activate fenicsx-0.9.0`
 
-After the first installation, you need only to type `conda activate fenicsx-0.9.0` to use fenicsx on a terminal.
+After the first installation, you need only to type `conda activate fenicsx-0.9.0` to use fenicsx on a terminal. Then, open a new Terminal window (or [navigate](https://help.ubuntu.com/community/UsingTheTerminal) use `cd` command) and run `python3 namefile.py`, where namefile is the name of your .py file.
+
+Note: to see the environments installed in Conda, type: `conda env list`
 
 
 ## Windows
