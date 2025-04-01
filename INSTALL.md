@@ -9,8 +9,8 @@ We recommend the installation using Anaconda, i.e., a useful package manager for
 Install Anaconda from https://www.anaconda.com/products/distribution.
 
 If you are on Macosx: choose the install form your platform:
-- Intel processors: [Anaconda3-2022.05-MacOSX-x86_64.pkg](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-x86_64.pkg)
-- M1 processors: [https://repo.anaconda.com/archive/Anaconda3-2022.05-MacOSX-arm64.pkg](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-arm64.pkg)
+- Intel processors: [Anaconda3-2024.10-MacOSX-x86_64.pkg](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-x86_64.pkg)
+- M1 processors: [Anaconda3-2024.10-MacOSX-arm64.pkg](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-arm64.pkg)
 
 Open a new terminal and go to the directory containing the file `fenicsx-0.9.0.yaml`. You will find this file in the present git repository.
 
