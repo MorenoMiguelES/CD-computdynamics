@@ -1,6 +1,6 @@
  # Installation
 
- ## Linux / Macosx using Anaconda
+ ## Linux / MacOS using Anaconda
 
 Instructions on how to install FEniCS-dolfinx are available (https://fenicsproject.org/download/).
 
