@@ -6,7 +6,7 @@ Instructions on how to install FEniCS-dolfinx are available (https://fenicsproje
 
 We recommend the installation using Anaconda, i.e., a useful package manager for python.
 
-Download Anaconda from https://www.anaconda.com/products/distribution and install following the instructions in [Anaconda Install](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
+Download Anaconda from [Anaconda Distributions](https://www.anaconda.com/products/distribution) and install following the instructions in [Anaconda Install](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation)
 
 If you are on Macosx: choose the install form your platform:
 - Intel processors: [Anaconda3-2024.10-MacOSX-x86_64.pkg](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-x86_64.pkg)
