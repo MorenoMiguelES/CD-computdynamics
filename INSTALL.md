@@ -31,6 +31,6 @@ After the first installation, you need only to type `conda activate fenicsx-0.9.
 
 ## Windows
 
-FEniCS is not distributed for Windows. For Windows, the preferred option is the Windows subsystem for linux (WSL). Install the Ubuntu distribution as WSL, then refer to the section above inside the Ubuntu WSL
+FEniCS is not distributed for Windows. For Windows, the preferred option is to create Ubuntu virtual machine. Then inside the ubuntu virtual machine follows the instruction for conda installation (see Linux installation).
 
-If you cannot install the WSL, you will need to create Ubuntu virtual machine. Get in touch with your instructors in that case. Then inside the ubuntu virtual machine follows the instruction for conda installation.
+If you cannot install the virtual machine, an alternative is to use the Windows subsystem for linux (WSL). Install the Ubuntu distribution as WSL, then refer to the section above inside the Ubuntu WSL. For further support, get in touch with your instructor. 
