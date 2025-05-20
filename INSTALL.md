@@ -52,3 +52,7 @@ IMPORTANT NOTE: Before creating the Conda environment and after installing the W
 For further support, get in touch with your instructor. 
 
 Option 2) As an alternative, an Ubuntu virtual machine can be used. To set up the virtual machine, see [Ubuntu Virtual Machine Using VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview). Then, inside the ubuntu virtual machine follows the instruction for conda installation (see Linux installation). For further support, get in touch with your instructor.
+
+## Common: Paraview
+
+To visualize the result of a simulation, Paraview needs to be installed and used: [https://www.paraview.org/download/](https://www.paraview.org/download/)
