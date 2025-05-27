@@ -56,3 +56,7 @@ Option 2) As an alternative, an Ubuntu virtual machine can be used. To set up th
 ## Common: Paraview
 
 To visualize the result of a simulation, Paraview needs to be installed and used: [https://www.paraview.org/download/](https://www.paraview.org/download/)
+
+## Optional: Microsoft VS Code
+
+Microsoft VS Code is a text editor with an interpreter incorporated that facilitates the visualization and creation of codes – Python and other programming languages -- https://code.visualstudio.com 
