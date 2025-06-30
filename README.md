@@ -8,7 +8,8 @@ Teacher:
 We will use for this numerical tutorials the finite element suite FEniCS/dolfinx (version 0.9.0).
 
 If you use this material, please cite:
-Moreno-Mateos, M.A. (2025). CD-computdynamics. GitHub repository: [https://github.com/yourusername/comp-dyn-labs](https://github.com/MorenoMiguelES/CD-computdynamics).
+- Moreno-Mateos, M.A. (2025). CD-computdynamics. GitHub repository: [https://github.com/yourusername/comp-dyn-labs](https://github.com/MorenoMiguelES/CD-computdynamics).
+- Zenodo doi.
 
 ## Content
 
