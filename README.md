@@ -9,7 +9,7 @@ We will use for this numerical tutorials the finite element suite FEniCS/dolfinx
 
 If you use this material, please cite:
 - Moreno-Mateos, M.A. (2025). CD-computdynamics. GitHub repository: [https://github.com/yourusername/comp-dyn-labs](https://github.com/MorenoMiguelES/CD-computdynamics).
-- Moreno-Mateos, M.A. (2025). MorenoMiguelES/CD-computdynamics: Elastodynamics Computer Laboratory, Moreno-Mateos (v1.1). Zenodo. (https://doi.org/10.5281/zenodo.15771587).
+- Moreno-Mateos, M.A. (2025). MorenoMiguelES/CD-computdynamics: Elastodynamics Computer Laboratory, Moreno-Mateos (v1.1). Zenodo. (https://doi.org/10.5281/zenodo.15771586).
 
 ## Content
 
