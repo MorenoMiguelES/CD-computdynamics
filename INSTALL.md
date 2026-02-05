@@ -30,11 +30,7 @@ After the first installation, you need only to type `conda activate fenicsx0.9.0
 
 Note: to see the environments installed in Conda, type: `conda env list`
 
-Note for Mac users: only if you are using MacOS 15.4, after activating fenicsx0.9.0 environment (`conda activate fenicsx0.9.0`) the following lines need to be run in the terminal to prevent an error with the compilation of the dolfinx forms: 
-
-`rm -rf ~/.cache/fenics`
-
-`export LDSHARED="$CC -bundle -undefined dynamic_lookup"`
+Note for Mac users: only if you are using MacOS 15.4, after activating fenicsx0.9.0 environment (`conda activate fenicsx0.9.0`) an error with the compilation of the dolfinx forms might happen. If so, reach out to the instructor or try to solve it yourself with AI help.
 
 
 ## Windows
