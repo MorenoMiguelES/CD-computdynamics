@@ -41,7 +41,7 @@ Note for Mac users: only if you are using MacOS 15.4, after activating fenicsx0.
 
 FEniCS is not distributed for Windows. As alternative:
 
-Option 1) For Windows, the preferred option is to install the Windows subsystem for linux (WSL) [Windows subsystem for linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install). Install the Ubuntu distribution as WSL, then refer to the section above for Linux to install Anaconda and FEniCSx inside the Ubuntu WSL. 
+Option 1) For Windows, the preferred option is to install the Windows subsystem for linux (WSL) [Windows subsystem for linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install). Install the Ubuntu distribution as WSL (usually: 1. Install WSL, 2. Install Ubuntu distribution), then refer to the section above for Linux to install Anaconda and FEniCSx inside the Ubuntu WSL. 
 
 IMPORTANT NOTE: Before creating the Conda environment and after installing the WSL, the following system dependencies have to be installed:
 
